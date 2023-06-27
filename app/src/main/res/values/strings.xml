@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SnapChat Clone</string>
+    <string name="enter_email">Enter Email…</string>
+    <string name="enter_password">Enter Password…</string>
+    <string name="login">Login</string>
+    <string name="create_snap">Create Snap</string>
+    <string name="logout">Logout</string>
+    <string name="choose_snap">Choose Snap</string>
+    <string name="enter_your_message">Enter your message…</string>
+    <string name="next">Next</string>
+</resources>
